@@ -1,0 +1,21 @@
+{
+  "name": "bloxstrap",
+  "version": "0.1.0",
+  "description": "A lightweight framework for Roblox game development (In Development)",
+  "main": "src/init.lua",
+  "scripts": {
+    "test": "jest",
+    "dev": "echo 'Development mode'"
+  },
+  "keywords": [
+    "roblox",
+    "framework",
+    "development"
+  ],
+  "author": "NexusAI-lovable",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NexusAI-lovable/Bloxstrap.git"
+  }
+}
